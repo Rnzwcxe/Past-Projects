@@ -1,1 +1,1 @@
-C files uploaded, rest to follow.
+C files and Data Mining project uploaded, the rest to follow.

@@ -1,0 +1,152 @@
+main
+max_depth = 9, min_samples_split= 2
+(1784, 19) (5236, 19)
+0.5723094170403588
+TruePositive: 0.3649103139013453
+TrueNegative: 0.20739910313901344
+FalsePositive: 0.24719730941704035
+FalseNegative: 0.1804932735426009
+
+max_depth = 4, min_samples_split= 2
+(1784, 19) (5236, 19)
+0.5566143497757847
+TruePositive: 0.25672645739910316
+TrueNegative: 0.2998878923766816
+FalsePositive: 0.1547085201793722
+FalseNegative: 0.288677130044843
+
+max_depth = 5, min_samples_split= 2
+(1784, 19) (5236, 19)
+0.5812780269058296
+TruePositive: 0.3721973094170404
+TrueNegative: 0.20908071748878923
+FalsePositive: 0.24551569506726456
+FalseNegative: 0.17320627802690583
+
+max_depth = 11, min_samples_split= 2
+(1784, 19) (5236, 19)
+0.54652466367713
+TruePositive: 0.3368834080717489
+TrueNegative: 0.20964125560538116
+FalsePositive: 0.24495515695067266
+FalseNegative: 0.2085201793721973
+
+main assist
+max_depth = 9, min_samples_split= 2
+(1748, 20) (5252, 20)
+0.5463386727688787
+TruePositive: 0.2620137299771167
+TrueNegative: 0.284324942791762
+FalsePositive: 0.18707093821510298
+FalseNegative: 0.2665903890160183
+
+main all heroes
+max_depth = 5, min_samples_split= 2
+(1663, 121) (5337, 121)
+0.5706554419723392
+TruePositive: 0.2687913409500902
+TrueNegative: 0.3018641010222489
+FalsePositive: 0.1888153938665063
+FalseNegative: 0.24052916416115455
+
+main items all heroes
+max_depth = 1, min_samples_split= 2
+(1750, 127) (5250, 127)
+0.6725714285714286
+TruePositive: 0.456
+TrueNegative: 0.21657142857142858
+FalsePositive: 0.2742857142857143
+FalseNegative: 0.053142857142857144
+
+max_depth = 9, min_samples_split= 2
+(1750, 127) (5250, 127)
+0.8011428571428572
+TruePositive: 0.41314285714285715
+TrueNegative: 0.388
+FalsePositive: 0.10285714285714286
+FalseNegative: 0.096
+
+main items
+max_depth = 1, min_samples_split= 2
+(1740, 25) (5260, 25)
+0.6672413793103448
+TruePositive: 0.4603448275862069
+TrueNegative: 0.20689655172413793
+FalsePositive: 0.2770114942528736
+FalseNegative: 0.05574712643678161
+
+max_depth = 5, min_samples_split= 2
+(1740, 25) (5260, 25)
+0.792528735632184
+TruePositive: 0.43735632183908046
+TrueNegative: 0.35517241379310344
+FalsePositive: 0.12873563218390804
+FalseNegative: 0.07873563218390804
+
+max_depth = 9, min_samples_split= 2
+(1740, 25) (5260, 25)
+0.7959770114942529
+TruePositive: 0.41551724137931034
+TrueNegative: 0.38045977011494253
+FalsePositive: 0.10344827586206896
+FalseNegative: 0.10057471264367816
+
+
+all
+max_depth = 1, min_samples_split= 2
+(1707, 129) (5293, 129)
+0.9244288224956063
+TruePositive: 0.4833040421792619
+TrueNegative: 0.44112478031634444
+FalsePositive: 0.06092560046865846
+FalseNegative: 0.014645577035735208
+
+max_depth = 3, min_samples_split= 2
+(1707, 129) (5293, 129)
+0.9384885764499121
+TruePositive: 0.479203280609256
+TrueNegative: 0.45928529584065614
+FalsePositive: 0.042765084944346804
+FalseNegative: 0.018746338605741066
+
+max_depth = 5, min_samples_split= 2
+(1707, 129) (5293, 129)
+0.9431751611013474
+TruePositive: 0.48154657293497366
+TrueNegative: 0.46162858816637375
+FalsePositive: 0.040421792618629174
+FalseNegative: 0.016403046280023433
+
+max_depth = 9, min_samples_split= 2
+(1707, 129) (5293, 129)
+0.9402460456942003
+TruePositive: 0.4833040421792619
+TrueNegative: 0.45694200351493847
+FalsePositive: 0.04510837727006444
+FalseNegative: 0.014645577035735208
+
+all wo tower
+
+max_depth = 1, min_samples_split= 2
+(1726, 128) (5274, 128)
+0.7560834298957126
+TruePositive: 0.3342989571263036
+TrueNegative: 0.42178447276940906
+FalsePositive: 0.05504055619930475
+FalseNegative: 0.18887601390498263
+
+max_depth = 5, min_samples_split= 2
+(1726, 128) (5274, 128)
+0.8771726535341831
+TruePositive: 0.4548088064889919
+TrueNegative: 0.4223638470451912
+FalsePositive: 0.054461181923522596
+FalseNegative: 0.06836616454229433
+
+max_depth = 9, min_samples_split= 2
+(1726, 128) (5274, 128)
+0.8765932792584009
+TruePositive: 0.45538818076477405
+TrueNegative: 0.42120509849362686
+FalsePositive: 0.055619930475086905
+FalseNegative: 0.06778679026651217

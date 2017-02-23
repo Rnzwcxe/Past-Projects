@@ -1,0 +1,5 @@
+Term Project in Data Mining. Warning, it was written in three days after all else repeatedly failed. An attempt has been made at documentation, but you have been warned. 
+
+It is a script that scrapes data from Dota 2's api and allows one to attempt do find feature of a win or lose. So, details on the meta game. This is not the way to get data about games in dota 2. However, the way that works properly requires one to simulate Dota's client (the game application).
+
+The hope was to find prematch features that would indicate the result. However only data that Dota's api supports is the most recently played public matches, which do not follow clean metas like tournement matches. As a result, without end match features the prediction rates did very poorly. Tree images, data sets, and results are in the directory. The results are in the format of data set name, tree details, (test set size, test set number of features) (train set size, train set number of features), accuracy, confusion matrix.
